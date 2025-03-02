@@ -27,7 +27,7 @@ Click the `Fork` button at the top right corner of this page to create a copy of
 ### 2. **Clone Your Fork**
 
 ```bash
-git clone https://github.com/Hunterdii/Smart-AI-Resume-Analyzer.git
+git clone https://github.com/Prarthana-Singh/Smart-AI-Resume-Analyzer.git
 ```
 
 ### 3. **Navigate to the Directory**
